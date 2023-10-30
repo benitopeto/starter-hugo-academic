@@ -68,7 +68,7 @@ social:
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1y0dPpan-70_9U_Ky72JAkFu2Gxq6CC8c/view?usp=sharing
 education:
   courses:
     - course: BSc in Information and communication Technology
