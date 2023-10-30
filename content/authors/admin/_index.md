@@ -88,6 +88,5 @@ last_name: Chien
 highlight_name: true
 first_name: Shiung Wu
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+\
+Benson Kimingiri is a passionate and innovative software developer with over a decade of experience in the tech industry. He is known for his exceptional problem-solving skills, attention to detail, and a deep commitment to creating efficient and user-friendly software solutions. John's journey began with a fascination for coding at an early age, leading him to pursue a computer science degree at a top-tier university. Throughout his career, he has contributed to a wide range of projects, from mobile app development to complex web applications, leaving his mark with elegant, robust code. John's dedication to continuous learning, coupled with his ability to adapt to emerging technologies, makes him a sought-after developer in the ever-evolving world of software development.
