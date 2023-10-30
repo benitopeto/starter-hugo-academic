@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Benson Kimingiri. This work is licensed under {license}'
+    notice: '© {year} Benson Kimingiri.' # This work is licensed under {license}
     license:
       enable: false
       allow_derivatives: false
