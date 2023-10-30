@@ -39,11 +39,11 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-title: 吳健雄
-role: Professor of Artificial Intelligence
+title: Benson Kimingiri Wangui
+role: Software Engineer
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My professional interests include Web Development, Gamming Development
+  using Pycharm and Web Scrapping Using Python.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
