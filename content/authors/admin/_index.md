@@ -43,9 +43,10 @@ avatar_filename: avatar.png
 bio: My professional interests include Web Development, Gamming Development
   using Pycharm and Web Scrapping Using Python.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Development
+  - Gamming Development
+  - Web-Scraping using Python
+  - Computational Thinking
 social:
   - icon: envelope
     icon_pack: fas
