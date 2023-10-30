@@ -41,7 +41,7 @@ skills:
         icon_pack: fas
 title: 吳健雄
 role: Professor of Artificial Intelligence
-avatar_filename: ben-profile.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
