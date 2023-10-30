@@ -65,7 +65,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/benson-kimingiri-57b093116/
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1y0dPpan-70_9U_Ky72JAkFu2Gxq6CC8c/view?usp=sharing
