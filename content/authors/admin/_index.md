@@ -71,12 +71,15 @@ social:
     link: uploads/resume.pdf
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Information and communication Technology
+      institution: Mt. Kenya University
+      year: 2018
+    - course: "Application Security Analysis "
+      institution: IBM
+      year: 2016
+    - course: CCNA
+      institution: CISCO NETWORKING ACADEMY
+      year: 2021
 superuser: true
 status:
   icon: ☕️
