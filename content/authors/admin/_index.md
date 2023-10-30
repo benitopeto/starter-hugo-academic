@@ -1,7 +1,5 @@
 ---
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 skills:
   - name: Technical
     items:
