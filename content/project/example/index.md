@@ -95,4 +95,11 @@ VALUES (1, 1, 1, '2021-01-01'),
 
 ## **Q﻿uestions**
 
-1. d﻿gh
+1. What are the details of all cars purchased in the year 2022 ?
+
+```sql
+select distinct cars.make,cars.type,cars.style,cars.cost_$, sales.purchase_date
+from cars JOIN sales ON cars.car_id=sales.car_id where year(purchase_date)=2022;
+```
+
+![](2022.png)
