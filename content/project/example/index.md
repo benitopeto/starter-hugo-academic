@@ -2,9 +2,7 @@
 slides: example
 url_pdf: ""
 title: SQL PROJECT
-summary: <iframe width="560" height="315"
-  src='https://dbdiagram.io/e/65434d537d8bbd6465544070/65434d5a7d8bbd6465544100'>
-  </iframe>
+summary: ""
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
@@ -93,6 +91,8 @@ VALUES (1, 1, 1, '2021-01-01'),
 (20, 4, 4, '2023-03-01');
 ```
 
-```sql
+<iframe width="560" height="315" src='https://dbdiagram.io/e/65434d537d8bbd6465544070/65434d5a7d8bbd6465544100'> </iframe>
 
-```
+## **Q﻿uestions**
+
+1. d﻿gh
