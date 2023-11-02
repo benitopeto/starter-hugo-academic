@@ -105,3 +105,14 @@ where year(purchase_date)=2022;
 ```
 
 ![](2022.png)
+
+2. What is the total number of cars sold by each salesperson?
+
+```sql
+ select salespersons.name,count(sales.sale_id) as 
+ 'total_sales' from salespersons join sales on 
+ salespersons.salesman_id=sales.salesman_id 
+ group by salespersons.salesman_id;
+```
+
+![](sales.png)
