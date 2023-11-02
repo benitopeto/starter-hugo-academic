@@ -72,20 +72,5 @@ VALUES (1, 1, 1, '2021-01-01'),
 ```
 
 ```sql
-INSERT INTO cars (car_id, make, type, style, cost_$)
-VALUES (1, 'Honda', 'Civic', 'Sedan', 30000),
-(2, 'Toyota', 'Corolla', 'Hatchback', 25000),
-(3, 'Ford', 'Explorer', 'SUV', 40000),
-(4, 'Chevrolet', 'Camaro', 'Coupe', 36000),
-(5, 'BMW', 'X5', 'SUV', 55000),
-(6, 'Audi', 'A4', 'Sedan', 48000),
-(7, 'Mercedes', 'C-Class', 'Coupe', 60000),
-(8, 'Nissan', 'Altima', 'Sedan', 26000);
 
-CREATE TABLE salespersons (
-salesman_id INT PRIMARY KEY,
-name VARCHAR(50),
-age INT,
-city VARCHAR(50)
-);
 ```
