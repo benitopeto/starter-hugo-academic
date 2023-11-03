@@ -15,9 +15,6 @@ H﻿ow the Game Works:
 3. Give a clue if the number is higher or lower than the guess
 4. Inform the player if he won
 
-
-
-
    ```python
    from random import randint
    start=1
@@ -43,3 +40,7 @@ H﻿ow the Game Works:
 
    print("Congratulations  !! you guessed the number you wone")   
    ```
+
+
+
+![](gamee.png)
