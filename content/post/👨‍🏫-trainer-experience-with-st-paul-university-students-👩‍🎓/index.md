@@ -4,12 +4,10 @@ date: 2023-11-08T11:16:44.653Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 1697530006161.jpg
   focal_point: Smart
   preview_only: false
 ---
-
-
 \
 Being a trainer for the St. Paul University students during the ACWICT Week of Code Workshop was an enriching experience. 🌟\
 🎯 [\#MentoringTheFuture](https://www.linkedin.com/feed/hashtag/?keywords=mentoringthefuture&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416): As a trainer, I had the privilege of working with bright and motivated students from St. Paul University, guiding them through a week of immersive learning.\
@@ -20,5 +18,3 @@ Being a trainer for the St. Paul University students during the ACWICT Week of C
 🙏 [\#Gratitude](https://www.linkedin.com/feed/hashtag/?keywords=gratitude&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416): I'm grateful for the opportunity to contribute to their growth and education. Kudos to the St. Paul University students for their dedication and the ACWICT team for their support.\
 Thanks to [John Karanja](https://www.linkedin.com/in/ACoAABBdN6wBSpVVQIm3KIpNxAbtCkiy6NgagZ0) , [Njogu Grace](https://www.linkedin.com/in/ACoAABfeTBYBBiiUM142EFxiPnEan5rlpYNlXnQ) and [Ignatius Ouma](https://www.linkedin.com/in/ACoAACqmPawBhzJDHyNIqXv9R0lExolgyGM8Dkc) for your support.\
 [\#TrainerExperience](https://www.linkedin.com/feed/hashtag/?keywords=trainerexperience&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#StPaulUniversity](https://www.linkedin.com/feed/hashtag/?keywords=stpauluniversity&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#TechEducation](https://www.linkedin.com/feed/hashtag/?keywords=techeducation&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#FutureLeaders](https://www.linkedin.com/feed/hashtag/?keywords=futureleaders&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#CodingJourney](https://www.linkedin.com/feed/hashtag/?keywords=codingjourney&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#LearningExperience](https://www.linkedin.com/feed/hashtag/?keywords=learningexperience&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#ACWICT](https://www.linkedin.com/feed/hashtag/?keywords=acwict&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#SkillsDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=skillsdevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416)
-
-<!--EndFragment-->
