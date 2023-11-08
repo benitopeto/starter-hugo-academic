@@ -21,7 +21,7 @@ Being a trainer for the St. Paul University students during the ACWICT Week of C
 Thanks to [John Karanja](https://www.linkedin.com/in/ACoAABBdN6wBSpVVQIm3KIpNxAbtCkiy6NgagZ0) , [Njogu Grace](https://www.linkedin.com/in/ACoAABfeTBYBBiiUM142EFxiPnEan5rlpYNlXnQ) and [Ignatius Ouma](https://www.linkedin.com/in/ACoAACqmPawBhzJDHyNIqXv9R0lExolgyGM8Dkc) for your support.\
 [\#TrainerExperience](https://www.linkedin.com/feed/hashtag/?keywords=trainerexperience&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#StPaulUniversity](https://www.linkedin.com/feed/hashtag/?keywords=stpauluniversity&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#TechEducation](https://www.linkedin.com/feed/hashtag/?keywords=techeducation&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#FutureLeaders](https://www.linkedin.com/feed/hashtag/?keywords=futureleaders&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#CodingJourney](https://www.linkedin.com/feed/hashtag/?keywords=codingjourney&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#LearningExperience](https://www.linkedin.com/feed/hashtag/?keywords=learningexperience&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#ACWICT](https://www.linkedin.com/feed/hashtag/?keywords=acwict&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416) [\#SkillsDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=skillsdevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416)
 
-![]()
+![](1697530006161.jpg)
 
 ![]()
 
