@@ -1,6 +1,6 @@
 ---
 title: 👨‍🏫 Trainer Experience with St. Paul University Students 👩‍🎓
-date: 2023-11-08T11:16:44.653Z
+date: 2023-10-18T11:21:00.000Z
 draft: false
 featured: false
 image:
