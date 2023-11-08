@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-![](1697530006161.jpg)
-
 👨‍🏫 Trainer Experience with St. Paul University Students 👩‍🎓\
 Being a trainer for the St. Paul University students during the ACWICT Week of Code Workshop was an enriching experience. 🌟\
 🎯 [\#MentoringTheFuture](https://www.linkedin.com/feed/hashtag/?keywords=mentoringthefuture&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7119956907053756416): As a trainer, I had the privilege of working with bright and motivated students from St. Paul University, guiding them through a week of immersive learning.\
